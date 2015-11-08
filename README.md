@@ -14,3 +14,7 @@ https://www.raspberrypi.org/help/quick-start-guide/
 Some GPIO uses/guide on Pi
 
 https://superpiboy.wordpress.com/tag/raspberry-pi/
+
+Webcam with Pi
+
+https://www.raspberrypi.org/documentation/usage/webcams/
