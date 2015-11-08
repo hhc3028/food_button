@@ -18,3 +18,9 @@ https://superpiboy.wordpress.com/tag/raspberry-pi/
 Webcam with Pi
 
 https://www.raspberrypi.org/documentation/usage/webcams/
+
+This is for the fact that we have no idea what our Pi version is...
+
+http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/
+
+
