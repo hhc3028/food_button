@@ -26,3 +26,9 @@ http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-versio
 For sending out email from the Pi
 
 http://www.sbprojects.com/projects/raspberrypi/exim4.php
+
+
+THE Important part of using a Pi is knowing how to code it. This is link to basic guides/tutorials for it.
+
+https://www.raspberrypi.org/hour-of-code/
+
