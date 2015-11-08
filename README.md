@@ -23,4 +23,6 @@ This is for the fact that we have no idea what our Pi version is...
 
 http://www.raspberrypi-spy.co.uk/2012/09/checking-your-raspberry-pi-board-version/
 
+For sending out email from the Pi
 
+http://www.sbprojects.com/projects/raspberrypi/exim4.php
